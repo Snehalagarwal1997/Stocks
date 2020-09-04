@@ -1,0 +1,3 @@
+[submodule "SMApp"]
+	path = SMApp
+	url = ./stocks/SMApp
